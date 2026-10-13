@@ -1,0 +1,8 @@
+*.log
+*.blend1
+reference_mannequin.fbx
+reference_run.fbx
+reference_rig.json
+validation.json
+*_validation.json
+Mewtwo_run_frame_*.png

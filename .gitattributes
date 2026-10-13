@@ -1,0 +1,4 @@
+*.uasset binary
+*.umap binary
+*.fbx binary
+*.blend binary
